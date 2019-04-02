@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhotoGallery</string>
+    <string name="page_text">Page %1d of %2d</string>
+</resources>
